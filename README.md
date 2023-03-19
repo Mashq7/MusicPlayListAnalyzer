@@ -1,7 +1,6 @@
 # MusicPlayListAnalyzer
 
-MusicPlayListAnalyzer
-is a Python project that analyzes a music playlist and provides insights about its contents. 
+The project is a Python project that analyzes a music playlist and provides insights about its contents. 
 The project was developed as part of a Python training program, with the goal of improving code readability and organization.
 
 The project reads a txt file containing information about songs in a playlist, such as title, artist, genre, duration, and year. 
